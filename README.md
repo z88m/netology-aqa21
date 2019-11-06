@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ch860rgxpdq7u72h/branch/master?svg=true)](https://ci.appveyor.com/project/z88m/netology-aqa21/branch/master)
